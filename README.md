@@ -69,7 +69,7 @@ SHA-256 • Ollama • n8n
 ---
 
 ### 🤖 MemoryBot — Multi-Provider AI Chatbot
-> Live Demo: memorybot.vercel.app
+> Live Demo: [memorybot.vercel.app](https://memory-bot-an-ai-chatbot.vercel.app/)
 
 AI chatbot with full conversation memory supporting 
 5 providers — Ollama (free local), Groq, OpenRouter, 
@@ -94,24 +94,13 @@ Sensors • Web Dashboard
 ---
 
 ### 🛍️ SAMOriginals — E-Commerce Platform
+> Live Demo : [SAMOriginals.vercel.app](https://uae-streetwear-store.vercel.app/)
 Fully functional multi-page e-commerce SPA for 
 UAE streetwear brand with WhatsApp Business API 
 checkout and live drop countdown.
 
 **Tech:** HTML5 • CSS3 • Vanilla JS • 
 WhatsApp Business API
-
----
-
-### 💰 Budget Analyzer — AI Finance App
-ML-powered expense classifier achieving 87% 
-accuracy, categorising spending into Needs vs 
-Wants with Plotly dashboards.
-
-**Tech:** Python • scikit-learn • Firebase • 
-Streamlit • Plotly
-
----
 
 ## 📜 Certifications
 
