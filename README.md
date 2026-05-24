@@ -125,6 +125,9 @@ WhatsApp Business API
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Shreya-Sanjay08&theme=tokyonight&hide_border=true)
+
+---
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyasanjay08s/)
