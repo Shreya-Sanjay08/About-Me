@@ -125,19 +125,11 @@ WhatsApp Business API
 
 ---
 
-## 📊 GitHub Stats
-
-![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreya-Sanjay08&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya-Sanjay08&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyasanjay08s/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shreyasanjay811@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/shreya-sanjay)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/shreya-sanjay.cef25cdc)
 
 ---
 
